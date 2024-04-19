@@ -1,12 +1,12 @@
-# \*\*Nunchi AI Service
+# \*\* oooo Service
 
 [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.22.21-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IgorAntun/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-눈치 AI 비서 서비스 React Native 프로잭트 입니다.
+ooo React Native 프로잭트 입니다.
 상세 프로잭트 목표 및 계획은 노션 링크에서 확인해주세요.
-![Notion](https://www.notion.so/indj/AI-afcb44e9d028461ea375821aea41d27f?pvs=4)
+![Notion](#)
 
-![Chat Preview](https://indj.s3.ap-northeast-2.amazonaws.com/intro/tech/web_div4_1_ko.png)
+![Chat Preview](#)
 
 ---
 
@@ -14,7 +14,7 @@
 
 API 연결 문서는 아래 Postman 링크를 확인해주세요.
 
-<a href="https://razen-o.postman.co/documentation/15759403-e5e8bffe-53ca-43be-acd8-eb517c2498f2/publish?workspaceId=dd5a789f-38db-43a4-8d70-cd55a915bffe" target="_blank"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="API Docs" style="height: auto !important;width: auto !important;" ></a>
+<a href="#" target="_blank"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="API Docs" style="height: auto !important;width: auto !important;" ></a>
 
 Client Error Log Moniter는 아래 Sentry를 확인해주세요. 배포 된 앱 서비스에서 발생한 로그기록도 확인할 수 있습니다.
 
